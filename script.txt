@@ -1,4 +1,4 @@
 <script src='https://xxsibxx.github.io/ruffleembedsetup112/ruffle/ruffle.js' data-nscript='lazyOnload'></script>
 <div class='swf' dir='ltr' style='text-align: center;' trbidi='on'>
-<embed width='864' pluginspage='http://www.macromedia.com/go/getflashplayer' src='https://minhhoanglazy.github.io/flash-games/defend_your_castle.swf' height='600'></embed>
+<embed width='1024' pluginspage='http://www.macromedia.com/go/getflashplayer' src='https://minhhoanglazy.github.io/flash-games/Sonny.swf' height='768'></embed>
 </div>
